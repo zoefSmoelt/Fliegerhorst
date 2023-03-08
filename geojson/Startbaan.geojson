@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Startbaan",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": 1, "Omschrijvi": "Startbaan" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 6.224691476445457, 52.783391683148402 ], [ 6.224730156812275, 52.784116923514361 ], [ 6.247396851767196, 52.784116923514361 ], [ 6.247512892867647, 52.783415078187602 ], [ 6.224691476445457, 52.783391683148402 ] ] ] ] } }
+]
+}
